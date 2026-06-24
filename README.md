@@ -28,7 +28,7 @@ Organizations often struggle to identify factors contributing to employee stress
 
 ## Dashboard Preview
 
-(Add dashboard screenshot here)
+![Mental Health Dashboard](Mentalhealth_dashboard_screenshot_full.png)
 
 ## Key Insights
 
